@@ -1,0 +1,4 @@
+REM This will open cmd and start a rickroll
+GUI R
+STRINGLN cmd
+STRINGLN  curl ascii.live/can-you-hear-me
