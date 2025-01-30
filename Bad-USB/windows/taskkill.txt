@@ -1,0 +1,4 @@
+REM This will temporarily kill explorer.exe
+GUI R
+STRINGLN cmd
+taskkill /f /im explorer.exe
